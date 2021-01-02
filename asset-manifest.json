@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/loganmovie-app_2020/static/css/main.e0d39f32.chunk.css",
+    "main.js": "/loganmovie-app_2020/static/js/main.bf9b1940.chunk.js",
+    "main.js.map": "/loganmovie-app_2020/static/js/main.bf9b1940.chunk.js.map",
+    "runtime-main.js": "/loganmovie-app_2020/static/js/runtime-main.a61a81ec.js",
+    "runtime-main.js.map": "/loganmovie-app_2020/static/js/runtime-main.a61a81ec.js.map",
+    "static/js/2.2b03ef95.chunk.js": "/loganmovie-app_2020/static/js/2.2b03ef95.chunk.js",
+    "static/js/2.2b03ef95.chunk.js.map": "/loganmovie-app_2020/static/js/2.2b03ef95.chunk.js.map",
+    "index.html": "/loganmovie-app_2020/index.html",
+    "static/css/main.e0d39f32.chunk.css.map": "/loganmovie-app_2020/static/css/main.e0d39f32.chunk.css.map",
+    "static/js/2.2b03ef95.chunk.js.LICENSE.txt": "/loganmovie-app_2020/static/js/2.2b03ef95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a61a81ec.js",
+    "static/js/2.2b03ef95.chunk.js",
+    "static/css/main.e0d39f32.chunk.css",
+    "static/js/main.bf9b1940.chunk.js"
+  ]
+}
